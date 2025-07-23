@@ -1,3 +1,4 @@
+para proyecto de biblioteca:
 fastapi
 uvicorn
 sqlalchemy
