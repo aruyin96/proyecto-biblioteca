@@ -16,3 +16,5 @@ uvicorn main:app --reload
 4. GET /libros
 5. POST /prestar
 6. POST /devolver/{id}
+
+#### Swagger UI : (http://localhost:8000/docs)
