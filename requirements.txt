@@ -4,3 +4,6 @@ uvicorn
 sqlalchemy
 python-jose[cryptography]
 passlib[bcrypt]
+
+url de swagger ui:
+http://localhost:8000/docs
