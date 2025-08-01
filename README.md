@@ -1,4 +1,4 @@
-# 📚 Gestión de Biblioteca con FastAPI
+# Gestión de Biblioteca con FastAPI
 
 La API permite gestionar préstamos de libros de una biblioteca con autenticación JWT.
 
